@@ -1,5 +1,0 @@
-﻿  base64_cli_app.cpp
-C:\Users\phoenix\Desktop\Dev-work\dev-test\base64_cli_app\base64.hpp(60,39): warning C4267: '+=': conversion from 'size_t' to 'uint32_t', possible loss of data
-C:\Users\phoenix\Desktop\Dev-work\dev-test\base64_cli_app\base64_cli_app.cpp(35,74): warning C4474: 'fprintf' : too many arguments passed for format string
-C:\Users\phoenix\Desktop\Dev-work\dev-test\base64_cli_app\base64_cli_app.cpp(35,74): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
-  base64_cli_app.vcxproj -> C:\Users\phoenix\Desktop\Dev-work\dev-test\base64_cli_app\x64\Debug\base64_cli_app.exe
