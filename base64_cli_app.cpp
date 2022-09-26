@@ -52,6 +52,3 @@ int main(int argc, char *argv[]) {
 	return 0;
 }
 
-/*
-Thanks to https://github.com/tobiaslocker/base64 for the base64 algorithm implementation :)
-*/
