@@ -8,4 +8,4 @@ Usage:
 
 -d - decodes base64 to plaintext
 
-PS: Thanks to https://github.com/tobiaslocker/base64 for the base64 algorithm implementation :)Thanks to https://github.com/tobiaslocker/base64 for the base64 algorithm implementation :) 
+PS: Thanks to https://github.com/tobiaslocker/base64 for the base64 algorithm implementation :)
