@@ -2,7 +2,7 @@
 
 Usage:
 
-.\base64_cli_app <argument> <string>
+.\base64_cli_app \<argument\> \<string\>
 
 -e - encodes plaintext to base64
 
